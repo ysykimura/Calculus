@@ -1,2 +1,8 @@
 *.json
 *.md
+*.lua
+*.js
+*.css
+.obsidian/plugins/obsidian-enhancing-export/textemplate/dissertation.tex
+.obsidian/plugins/obsidian-enhancing-export/textemplate/neurips.sty
+.obsidian/plugins/obsidian-enhancing-export/textemplate/neurips.tex
